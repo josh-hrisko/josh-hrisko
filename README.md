@@ -1,50 +1,54 @@
 # Hi, I'm Josh 👋
 
-### Audio Engineer @ Meta | Founder of MakerPortal | Hardware & Data Enthusiast
+### Audio Engineer @ Meta | DSP Specialist | Founder of MakerPortal
 
-I am an engineer focused on the intersection of physical hardware and data science. Much of my work involves building open-source tools for **Python programming, satellite data analysis, and embedded systems** (Arduino, Raspberry Pi, and ESP32). 
+I am an engineer specializing in **Acoustics, Digital Signal Processing (DSP), and Embedded Audio Systems**. My current focus is on developing open-source tools for real-time audio analysis, high-fidelity recording on micro-computers, and hardware-accelerated signal processing.
 
-I founded **[MakerPortal](https://github.com/makerportal)** to bridge the gap between complex engineering concepts and accessible, hands-on tutorials.
-
----
-
-### 🛠️ Core Tech Stack
-
-- **Languages:** Python (Data Science, Automation, Visualization), C/C++ (Embedded Systems), MicroPython
-- **Hardware:** Raspberry Pi, Arduino, ESP32, MEMS Sensors, Thermal Imaging (MLX90640/AMG8833)
-- **Specialties:** Geospatial Analysis (GOES-16), Real-time Data Viz, Signal Processing, Rapid Prototyping
-- **Software:** Linux, Git, Matplotlib, NumPy, OpenCV
+Through **[MakerPortal](https://github.com/makerportal)**, I build and document systems that interface MEMS sensors with Python for scientific and engineering applications.
 
 ---
 
-### 🔬 Featured Projects & Work
+### 🔊 Audio & DSP Focus
 
-#### 🛰️ [Geospatial & Satellite Analysis](https://github.com/makerportal/geospatial-analyses)
-Python-based analysis of GOES-16 satellite data, land cover databases (NLCD), and elevation mapping.
-
-#### 🌡️ [Thermal Imaging Systems](https://github.com/makerportal/raspi-thermal-cam)
-Developing real-time thermal cameras using Raspberry Pi and MLX90640 sensors with optimized Python visualization.
-
-#### 📈 [pylive - Real-Time Visualization](https://github.com/makerportal/pylive)
-A lightweight Python plotter designed for real-time data streaming and hardware debugging.
-
-#### 🧭 [Sensor Calibration](https://github.com/makerportal/mpu92-calibration)
-Advanced calibration procedures for MPU9250 IMUs (accel, gyro, mag) using Python.
+- **Digital Signal Processing:** Real-time FFTs, noise subtraction, frequency spectrum peak detection, and acoustic filtering.
+- **Hardware Interface:** I2S MEMS microphones (INMP441, SPH0645), PDM-to-PCM conversion, and Raspberry Pi/ESP32 audio pipelines.
+- **Visualization:** Developing high-speed Python tools (Matplotlib, PyAudio, OpenCV) for spectral and waveform visualization.
+- **Acoustics:** Sound pressure level (SPL) measurement and spatial audio analysis.
 
 ---
 
-### 📊 GitHub Stats
+### 🚀 Featured Audio Projects
 
-![Josh's GitHub stats](https://github-readme-stats.vercel.app/api?username=josh-hrisko&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=josh-hrisko&layout=compact&theme=radical)
+#### 🎙️ [Raspberry Pi I2S Audio Analysis](https://github.com/makerportal/rpi_i2s)
+A comprehensive suite for recording and analyzing stereo audio using I2S microphones. Includes real-time Python visualization and automated frequency analysis.
+
+#### 📈 [pylive - Real-Time Data Plotter](https://github.com/makerportal/pylive)
+Used extensively for real-time acoustic monitoring, this lightweight tool allows for low-latency streaming of audio signals and sensor data.
+
+#### 🎼 [RPI Pico SSD1306 Audio Viz](https://github.com/makerportal/rpi-pico-ssd1306)
+Implementing MicroPython-based visualizers for embedded displays, turning small microcontrollers into portable audio analyzers.
+
+---
+
+### 🛠️ Tech Stack
+
+- **Languages:** Python (PyAudio, NumPy, SciPy), C++, MicroPython.
+- **Tools:** Linux Audio (ALSA/Jack), Git, Matplotlib, OpenCV.
+- **Hardware:** Raspberry Pi, Arduino, ESP32, I2S/PDM Microphones.
+
+---
+
+### 📊 GitHub Activity
+
+![Josh's GitHub stats](https://github-readme-stats.vercel.app/api?username=josh-hrisko&show_icons=true&theme=nord)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=josh-hrisko&layout=compact&theme=nord)
 
 ---
 
 ### 📫 Connect with Me
 
-- **Website:** [makersportal.com](https://makersportal.com)
-- **LinkedIn:** [joshua-hrisko](https://www.linkedin.com/in/joshua-hrisko/)
-- **Organization:** [@makerportal](https://github.com/makerportal)
+- **Acoustics & Tech Blog:** [makersportal.com](https://makersportal.com)
+- **Professional:** [LinkedIn: Joshua Hrisko](https://www.linkedin.com/in/joshua-hrisko/)
 - **Twitter:** [@maker_portal](https://twitter.com/maker_portal)
 
-> "Engineering is about making things work, but teaching is about making sure they stay working for everyone."
+> "Turning vibrations into data, and data into insights."
