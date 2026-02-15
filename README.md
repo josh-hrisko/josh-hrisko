@@ -38,10 +38,15 @@ Implementing MicroPython-based visualizers for embedded displays, turning small 
 
 ---
 
-### 📊 GitHub Activity
+### 🏢 MakerPortal Industry Impact
+Check out some of the open-source tools I've built through my organization:
 
-![Josh's GitHub stats](https://github-readme-stats-fast.vercel.app/api?username=josh-hrisko&show_icons=true&theme=nord)
-![Top Langs](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=josh-hrisko&layout=compact&theme=nord)
+| Project | Stars |
+| :--- | :--- |
+| **I2S Audio Analysis** | ![Stars](https://img.shields.io/github/stars/makerportal/rpi_i2s?style=social) |
+| **Thermal Camera System** | ![Stars](https://img.shields.io/github/stars/makerportal/raspi-thermal-cam?style=social) |
+| **MPU9250 Calibration** | ![Stars](https://img.shields.io/github/stars/makerportal/mpu92-calibration?style=social) |
+| **Real-time Data Plotter** | ![Stars](https://img.shields.io/github/stars/makerportal/pylive?style=social) |
 
 ---
 
