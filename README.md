@@ -40,8 +40,8 @@ Implementing MicroPython-based visualizers for embedded displays, turning small 
 
 ### 📊 GitHub Activity
 
-![Josh's GitHub stats](https://github-readme-stats.vercel.app/api?username=josh-hrisko&show_icons=true&theme=nord)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=josh-hrisko&layout=compact&theme=nord)
+![Josh's GitHub stats](https://github-readme-stats-fast.vercel.app/api?username=josh-hrisko&show_icons=true&theme=nord)
+![Top Langs](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=josh-hrisko&layout=compact&theme=nord)
 
 ---
 
