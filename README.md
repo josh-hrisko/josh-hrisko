@@ -1,6 +1,6 @@
-# Hi, I'm Josh Hrisko 👋
+# Hi, I'm Josh 👋
 
-### Engineer | Founder of MakerPortal | Hardware & Data Enthusiast
+### Audio Engineer @ Meta | Founder of MakerPortal | Hardware & Data Enthusiast
 
 I am an engineer focused on the intersection of physical hardware and data science. Much of my work involves building open-source tools for **Python programming, satellite data analysis, and embedded systems** (Arduino, Raspberry Pi, and ESP32). 
 
